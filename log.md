@@ -8,7 +8,7 @@
 **Thoughts:** I spent like 10 min trying to figure out why my error-match functions were throwing erros.  Finally realized I had the wrong case in the foreach function in element.classList I had classlist instead =[
 
 
-### Day 2: 
+### Day 2: January 4, 2022
 
 **Today's Progress**:  Today I added a coun to my little countdown timer to the memory game.
 
