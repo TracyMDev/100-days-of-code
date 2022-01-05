@@ -10,11 +10,10 @@
 
 ### Day 2: 
 
-**Today's Progress**: 
+**Today's Progress**:  Today I added a coun to my little countdown timer to the memory game.
 
-**Thoughts**: 
+**Thoughts**: I understood the logic that was needed for the timer pretty well. Day 2 is a day late, i'm off to a rough start.  I can already see this will be quite difficult to keep up with.
 
-**Link(s) to work**: 
 
 ### Day 3: 
 
