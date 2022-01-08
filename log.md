@@ -28,3 +28,12 @@
 **Thoughts** SometimesI get frustratedwith these tutorialsbecause they don't full explain WHY something is done, the speaker just says "We will be adding this in a foreach loop"... but why?? What are we doing?  It took me a few min to realize it's easier to add the Event listener to all the objets we grabbed in the for each loop instead of going 1 by one and adding it for each button.  I get frustrated because I am used to working with sets  of data, not objects so it's difficult to go from set based-thinking to Object based thinking...
 
 **Link(s) to work**
+
+### Day 5: January 8, 2022
+
+**Today's Progress**: Kept working on the Javascript Free Code Camp sample projects -- Created a Review Page
+
+**Thoughts** I'm finding the walk through of the peojects are lacking some explanations -- ex: what the DOM objects are is not explained at all, the speaker just says: Add an event listener for this dom object... And I had no idea what the DOMContentLoaded object is or does...
+
+**Link(s) to work**
+
