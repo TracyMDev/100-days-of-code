@@ -35,5 +35,13 @@
 
 **Thoughts** I'm finding the walk through of the peojects are lacking some explanations -- ex: what the DOM objects are is not explained at all, the speaker just says: Add an event listener for this dom object... And I had no idea what the DOMContentLoaded object is or does...
 
-**Link(s) to work**
+**Link(s) to work** https://github.com/TracyMDev/100-days-of-code/tree/master/VanillaJS/SampleProjects/02%20Reviews
 
+### Day 6: January 9, 2022
+
+**Today's Progress**: Kept working on the Javascript Free Code Camp sample projects -- Completed 2 projects - Navigation bar and side bar
+
+**Thoughts** I was able to complete two projects today, I spent some time reading about the DOM Object I had questions about yesterday, I kind of understand what they were doing but still kind of not.  I did notice that the sample "starter" code that was provided had an error in the CSS and it wasnt working... so I just copied from the CSS in the completed project folder and thatr fixed my problem, was kind of annoying because I don't know exactly what was wrong. Since i'm not focusing on CSS or HTML in this challenge i'll just take it and copy what was working.
+I am finding that I need to refresh my skils on HTML and CSS though.
+
+**Link(s) to work**
