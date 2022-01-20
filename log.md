@@ -88,10 +88,38 @@ I am finding that I need to refresh my skils on HTML and CSS though.
 
 **Link(s) to work**
 
-### Day 12: January 16, 2022
+### Day 12: January 15, 2022
 
 **Today's Progress**: Kept working on the Javascript Free Code Camp sample projects -- C0untdown timer
 
 **Thoughts**  I really enjoyed this countdown timer project, we had to take into account many differnt things when it cam to calculating th tim let, but it all made sense to me in the end. It really cool to see the time updating in realtime with out mamually refreshing the page.
 
 **Link(s) to work**
+### Day 13: January 16, 2022
+
+**Today's Progress**: Kept working on the Javascript Free Code Camp sample projects -- Grocery List
+
+**Thoughts**  This project is a pretty long one, got about 1/4 way through it, it's definatley the most involved out of all of them so far. Ive been consistent with coding for 1hr a day, but justs not updating GitHub  Instagram gets the update on the same day though.
+
+**Link(s) to work**
+### Day 14: January 17, 2022
+
+**Today's Progress**: Kept working on the Javascript Free Code Camp sample projects -- continued Grocery List
+
+**Thoughts**  Some new functions were introduced, It eventually makes sense but the video goes a bit too fast while i'm typing, I have to pause and go back a lot, look at my code and think through when we just did.
+
+
+**Link(s) to work**
+### Day 15: January 18, 2022
+
+**Today's Progress**: Kept working on the Javascript Free Code Camp sample projects -- continued Grocery List still....
+
+**Thoughts**  Today the project went into the local storage functionality, it's intersting to work with. took the while hour again to get through building the storage functionality.  I should be finished in the next day. 
+
+
+**Link(s) to work**
+### Day 16: January 20, 2022
+
+**Today's Progress**: Kept working on the Javascript Free Code Camp sample projects -- finished Grocery List, finished image slider page.
+
+**Thoughts**  skipped the previous day but came right back to coding.  I was able to complete the grocery list today, plus an image slider page.  The grocery list will probably be something I will review and try to code from scratch again in my own way becaue it uses many important concepts like creating, updating and deleting data that is saved in the browser's local storage.
