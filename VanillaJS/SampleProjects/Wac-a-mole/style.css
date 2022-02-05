@@ -34,6 +34,6 @@ h1 {
 }
 
 .mole {
-  background-image: url("./images/icons8-mole-80.png");
+  background-image: url("./images/icons8-mole-80.png"); /*you can DL the mole icon at icons8.com or use the provided one*/
   background-size: cover;
 }
