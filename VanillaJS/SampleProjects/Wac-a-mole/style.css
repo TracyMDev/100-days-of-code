@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&family=Space+Mono:wght@700&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+  color: rgb(44, 44, 44);
+}
+h1 {
+  text-align: center;
+  font-weight: bold;
+  color: darkmagenta;
+}
+
+/* #score {
+
+} */
+.square {
+  width: 200px;
+  height: 200px;
+  color: rgb(32, 33, 46);
+  border-style: solid;
+  border-color: rgb(95, 96, 160);
+}
+
+.grid {
+  display: flex;
+  font-weight: 600;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-content: center;
+  width: 618px;
+  height: 618px;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+
+.mole {
+  background-image: url("./images/icons8-mole-80.png");
+  background-size: cover;
+}
