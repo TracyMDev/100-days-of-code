@@ -123,3 +123,5 @@ I am finding that I need to refresh my skils on HTML and CSS though.
 **Today's Progress**: Kept working on the Javascript Free Code Camp sample projects -- finished Grocery List, finished image slider page.
 
 **Thoughts**  skipped the previous day but came right back to coding.  I was able to complete the grocery list today, plus an image slider page.  The grocery list will probably be something I will review and try to code from scratch again in my own way becaue it uses many important concepts like creating, updating and deleting data that is saved in the browser's local storage.
+
+### Day 17+: Please check my blog and instagram for check in posts and daily progress.
